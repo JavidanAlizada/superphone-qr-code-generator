@@ -1,0 +1,4 @@
+
+# Secrets: never commit
+src/main/resources/credentials.json
+tokens/
